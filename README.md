@@ -6,7 +6,7 @@ If you have installed [git](https://gitforwindows.org/) you can use that to clon
 ```sh
 git clone https://github.com/LarsGKodehode/react-course-4-weeks.git
 ```
-Once downloaded inside that folder run to install all the dependencies
+Once downloaded, inside that folder run to install all the dependencies
 ```sh
 npm install
 ```
