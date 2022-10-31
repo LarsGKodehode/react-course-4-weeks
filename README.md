@@ -20,7 +20,7 @@ This folder contains all the dependecies (and their dependencies aswell) for you
 Noteworthy for containing index.html and our apps favicon. Edit the title and swap out the favicon.ico with.
 Every file inside here will be made available when we build our application. You *can* put files (like images) you want to use in you application here.
 
-### src/
+### [src/](src/)
 This is the folder where we will do the majority of our development. Look inside for a further breakdown.
 
 ### .gitignore
