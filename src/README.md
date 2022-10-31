@@ -1,5 +1,10 @@
 ## This folder
 This folder will contain all (almost all) of our own code.
+You should keep this as clean as possible and put all your stuff in aptly named subfolder.
+Common subfolders are:
+- components/ - All of our components will go inside here
+- assets/ - folder for images, videos, etc.
+- routes/ - React is a Single Page Application (SPA) so our different subpages will be located here
 
 ## Files and folders
 ### App.css
