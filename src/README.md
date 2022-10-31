@@ -32,4 +32,4 @@ This is imported into App.js. We will not place our image files directly in the 
 The file containing this text
 
 ### reportWebVitals.js
-Another tool for web development we do not have in our course. See the [GitHub repository](https://github.com/GoogleChrome/web-vitals) for details.
+Another tool for web development we do not have in our course. See [web-vitals GitHub repository](https://github.com/GoogleChrome/web-vitals) for details.
