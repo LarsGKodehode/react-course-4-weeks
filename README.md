@@ -3,7 +3,7 @@ This is the first lecture for React in Kodehode 4 week course
 
 ## Using this repository
 If you have installed [git](https://gitforwindows.org/) you can use that to clone this repository.
->git clone https://github.com/LarsGKodehode/react-course-4-weeks.git
+```git clone https://github.com/LarsGKodehode/react-course-4-weeks.git```
 
 ## Files and Folders
 ### public/
