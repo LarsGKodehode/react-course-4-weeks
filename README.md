@@ -4,8 +4,14 @@ This is the first lecture for React in Kodehode 4 week course
 ## Using this repository
 If you have installed [git](https://gitforwindows.org/) you can use that to clone this repository.
 >```git clone https://github.com/LarsGKodehode/react-course-4-weeks.git```
+Once downloaded inside that folder run to install all the dependencies
+>```npm install```
 
 ## Files and Folders
+### node_modules
+This will only be available on a local copy once *npm install* has been run.
+This folder contains all the dependecies (and their dependencies aswell) for your application.
+
 ### public/
 Noteworthy for containing index.html and our apps favicon. Edit the title and swap out the favicon.ico with.
 Every file inside here will be made available when we build our application. You *can* put files (like images) you want to use in you application here.
