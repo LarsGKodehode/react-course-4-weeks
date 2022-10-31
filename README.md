@@ -35,6 +35,7 @@ DO NOT write in this file. This applies to all files ending with *-lock.json. Th
 
 ### package.json
 This is the important file. *npm* looks for this exact file when it is run to be aware of what this project actually is.
+Until I get around to describing all the fields, you can open this up in VS Code and hover over the various fields there, and it will give you a short description of what it means. For full documentation see [npmjs](https://docs.npmjs.com/cli/v8/configuring-npm/package-json).
 
 ### README.md
 This file. When published to GitHub.com if there are any file named README.md that file is displayed as sort of documentation for the folder where it is located. The file that is originally created when create-react-app is run contains some instructions for how to use create-react-app. Once you have read them, I suggest you replace the content with a description of your application.
