@@ -28,7 +28,7 @@ Every file inside here will be made available when we build our application. You
 This is the folder where we will do the majority of our development. Look inside for a further breakdown.
 
 ### .gitignore
-Inside this file you can put the name of files and folder you want to exclude from being uploaded when pushing.
+Inside this file you can put the name of files and folder you want to exclude from being uploaded when pushing to a remote repository, like this repository here which is hosted on GitHub.com.
 
 ### package-lock.json
 DO NOT write in this file. This applies to all files ending with *-lock.json. These are generated and maintened by npm, and nothing we should concern us with.
