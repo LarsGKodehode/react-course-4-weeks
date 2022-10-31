@@ -3,7 +3,7 @@ This is the first lecture for React in Kodehode 4 week course.
 
 ## Using this repository
 There is no reason for you to actually download this repository, but please have a look around.
-If you have more questions, create an issue, in this repository, here on GitHub. Or even better if you think you have a better wording for some of the description, create a pull request containing those changes.
+If you have more questions, you can create an issue here on GitHub. Or even better if you think you have a better wording for some of the description, create a pull request containing those changes.
 
 If you have installed [git](https://gitforwindows.org/) you can use that to clone (download) this repository by using:
 ```sh
