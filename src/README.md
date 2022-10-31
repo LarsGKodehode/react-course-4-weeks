@@ -19,7 +19,7 @@ For testing. There is not currently time in this course to go through testing in
 I **HIGHLY** recomend researching this topic.
 
 ### index.css
-Use this css files for global applicable styling. Examples include, importing of fonts.
+Use this css files for global applicable styling. Examples include, importing of fonts. You can start by applying styles through here, but it is generally considered bad practice. We will quickly move onto a more modular approach to styling our components.
 
 ### index.js
 This is the entry point of our application. It is the files that will be linked in our index.html.
