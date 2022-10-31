@@ -39,3 +39,4 @@ Until I get around to describing all the fields, you can open this up in VS Code
 
 ### README.md
 This file. When published to GitHub.com if there are any file named README.md that file is displayed as sort of documentation for the folder where it is located. The file that is originally created when create-react-app is run contains some instructions for how to use create-react-app. Once you have read them, I suggest you replace the content with a description of your application.
+For markdown formatting and more documentation see [GitHub Docs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
