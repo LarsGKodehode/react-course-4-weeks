@@ -33,4 +33,4 @@ DO NOT write in this file. This applies to all files ending with *-lock.json. Th
 This is the important file. *npm* looks for this exact file when it is run to be aware of what this project actually is.
 
 ### README.md
-This file. When published to GitHub.com if there are any file named README.md that file is displayed as sort of documentation for the folder where it is located.
+This file. When published to GitHub.com if there are any file named README.md that file is displayed as sort of documentation for the folder where it is located. The file that is originally created when create-react-app is run contains some instructions for how to use create-react-app. Once you have read them, I suggest you replace the content with a description of your application.
