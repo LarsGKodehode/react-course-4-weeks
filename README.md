@@ -1,6 +1,6 @@
 # Branches
 1. [Main entrypoint](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
-2. [The branch you are on now](https://github.com/LarsGKodehode/react-course-4-weeks/tree/project-structure-convention)
+2. [This branch](https://github.com/LarsGKodehode/react-course-4-weeks/tree/project-structure-convention)
 
 ## This branch
 This branch is for giving some best practices (conventions) for how to structure your React project.
