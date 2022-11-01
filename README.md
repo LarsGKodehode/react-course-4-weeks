@@ -1,6 +1,7 @@
 # Branches
 1. [Main entrypoint](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
 2. [This branch](https://github.com/LarsGKodehode/react-course-4-weeks/tree/project-structure-convention)
+3. [Components and Props](https://github.com/LarsGKodehode/react-course-4-weeks/tree/component-properties)
 
 ## This branch
 This branch is for giving some best practices (conventions) for how to structure your React project.
