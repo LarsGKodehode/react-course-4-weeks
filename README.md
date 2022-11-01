@@ -17,10 +17,10 @@ import MyButton from '../../../MyButton';
 ```
 
 ### [src/assets](/src/assets/) ```NEW```
-TODO
+This usually only contains media files like images, videos, logos, audio. Check out for more info.
 
 ### [src/components](/src/components/) ```NEW```
-TODO
+One of the most important folders in our project, all the components you will be creating goes in here. Check it out for information about how to structure it to be best prepeared for the future.
 
 ### node_modules
 This will only be available on a local copy once *npm install* has been run.
