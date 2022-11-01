@@ -1,6 +1,6 @@
 # Components folder
 This is the folder where you should store all your components.
-There is [one example component](/src/components/InfoCard/) inside the InfoCard folder. Note we are following a naming convention where all component names start with capital letters, this is applies to the folder aswell as the .jsx
+There is [one example component](/src/components/InfoCard/) inside the InfoCard folder. Note we are following a naming convention where all component names start with capital letters, this applies to the folder as well as the .jsx file.
 
 React and create-react-app are unopinionated (ie. They do not have any official documentation) for how to structure your application.
 There are however some best-practices that have evolved, but above all keep it consistent throughout your codebase.
