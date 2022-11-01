@@ -16,6 +16,7 @@ Otherwise, when our project contains alot of components, we might have needed to
 ```sh
 import MyButton from '../../../MyButton';
 ```
+If you want to read more see [here](https://create-react-app.dev/docs/importing-a-component/#absolute-imports).
 
 ### [src/assets](/src/assets/) ```NEW```
 This usually only contains media files like images, videos, logos, audio. Check out for more info.
