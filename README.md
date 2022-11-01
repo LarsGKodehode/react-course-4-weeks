@@ -1,5 +1,6 @@
-# Lesson 1.0 React
-This is the repository for the Kodehode 4 week React module.
+# Intro
+This is the repository for the Kodehode 4 week React module. Most, if not all files, is referenced in the documentation (all the README.md files).
+There are also multiple branches (currently only two) for you to look at.
 
 # Branches
 1. [The branch you are on now](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
