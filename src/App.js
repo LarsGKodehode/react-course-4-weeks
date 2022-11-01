@@ -1,23 +1,22 @@
-import logo from 'assets/logo/logo.svg';
+import { CardUsingProps } from 'components/CardUsingProps';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      
+      {/* React ignores linebreaks inside component definition,
+      so if you have more than one property you want to configure write them like this */}
+      <CardUsingProps
+        title="Look"
+        paragraph="There is two of us"
+      />
+
+      <CardUsingProps
+        title="And"
+        paragraph="We are different"
+      />
+
     </div>
   );
 }
