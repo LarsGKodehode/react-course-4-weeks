@@ -29,7 +29,7 @@ This will only be available on a local copy once *npm install* has been run.
 This folder contains all the dependecies (and their dependencies aswell) for your application.
 It can become quite big, so it is set to be excluded in our .gitignore file by default.
 
-### public/
+### [public/](public/)
 Noteworthy for containing index.html and our apps favicon. Edit the title of your app and swap out favicon.ico with something more appropriate for your application.
 Every file inside here will be made available when we build our application. You *can* put files (like images) you want to use in you application here.
 
