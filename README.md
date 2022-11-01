@@ -3,7 +3,7 @@ This is the repository for the Kodehode 4 week React module. Most, if not all fi
 There are also multiple branches (currently only two) for you to look at.
 
 # Branches
-1. [The branch you are on now](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
+1. [This branch](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
 2. [Basic structure of a React project](https://github.com/LarsGKodehode/react-course-4-weeks/tree/project-structure-convention)
 
 ## Using this repository
