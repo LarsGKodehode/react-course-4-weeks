@@ -5,6 +5,17 @@ This is the first lecture for React in Kodehode 4 week course.
 This branch is for giving some best practices (conventions) for how to structure your React project.
 
 ## Files and Folders
+### jsconfig.json ```NEW```
+We have added this to enable us to configure how create-react-app is reading *import* statements.
+This allows us to write import statements like this:
+```sh
+import MyButton from 'components/MyButton';
+```
+Otherwise, when our project contains alot of components, we might have needed to chain '../../../' to import the right one, ie:
+```sh
+import MyButton from '../../../MyButton';
+```
+
 ### node_modules
 This will only be available on a local copy once *npm install* has been run.
 This folder contains all the dependecies (and their dependencies aswell) for your application.
@@ -19,17 +30,6 @@ This is the folder where we will do the majority of our development. Look inside
 
 ### .gitignore
 Inside this file you can put the name of files and folder you want to exclude from being uploaded when pushing to a remote repository, like this repository here which is hosted on GitHub.com.
-
-### jsconfig.json ```NEW```
-We have added this to enable us to configure how create-react-app is reading *import* statements.
-This allows us to write import statements like this:
-```sh
-import MyButton from 'components/MyButton';
-```
-Otherwise, when our project contains alot of components, we might have needed to chain '../../../' to import the right one, ie:
-```sh
-import MyButton from '../../../MyButton';
-```
 
 ### package-lock.json
 DO NOT write in this file. This applies to all files ending with *-lock.json. These are generated and maintened by npm, and nothing we should concern us with.
