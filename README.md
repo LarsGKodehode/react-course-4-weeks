@@ -16,6 +16,12 @@ Otherwise, when our project contains alot of components, we might have needed to
 import MyButton from '../../../MyButton';
 ```
 
+### [src/assets](/src/assets/) ```NEW```
+TODO
+
+### [src/components](/src/components/) ```NEW```
+TODO
+
 ### node_modules
 This will only be available on a local copy once *npm install* has been run.
 This folder contains all the dependecies (and their dependencies aswell) for your application.
