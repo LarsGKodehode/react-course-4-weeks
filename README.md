@@ -22,7 +22,7 @@ Inside this file you can put the name of files and folder you want to exclude fr
 
 ### jsconfig.json ```NEW```
 We have added this to enable us to configure how create-react-app is reading *import* statements.
-This allows us to write import statements like:
+This allows us to write import statements like this:
 ```sh
 import MyButton from 'components/MyButton';
 ```
