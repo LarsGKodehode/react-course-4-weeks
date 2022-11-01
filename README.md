@@ -1,4 +1,4 @@
-# Content
+# Branches
 1. [Main entrypoint](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
 2. [The branch you are on now](https://github.com/LarsGKodehode/react-course-4-weeks/tree/project-structure-convention)
 
