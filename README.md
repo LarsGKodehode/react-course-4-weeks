@@ -1,12 +1,13 @@
 # Lesson 1.0 React
 This is the repository for the Kodehode 4 week React module.
 
+# Content
+1. [The branch you are on now](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
+2. [Basic structure of a React project](https://github.com/LarsGKodehode/react-course-4-weeks/tree/project-structure-convention)
+
 ## Using this repository
 There is no reason for you to actually download this repository, but please have a look around.
 The way I have structured this repository to keep new information to a minimum is by dividing it up in branches.
-### Current branches
-1. [The branch you are on now](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
-2. [Basic structure of a React project](https://github.com/LarsGKodehode/react-course-4-weeks/tree/project-structure-convention)
 
 If you have more questions, you can create an issue here on GitHub. Or even better if you think you have a better wording for some of the description, create a pull request containing those changes.
 
