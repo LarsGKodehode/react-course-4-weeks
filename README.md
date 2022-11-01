@@ -1,5 +1,6 @@
-# Lesson 1.0 React
-This is the first lecture for React in Kodehode 4 week course.
+# Content
+1. [The branch you are on now](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
+2. [Basic structure of a React project](https://github.com/LarsGKodehode/react-course-4-weeks/tree/project-structure-convention)
 
 ## This branch
 This branch is for giving some best practices (conventions) for how to structure your React project.
