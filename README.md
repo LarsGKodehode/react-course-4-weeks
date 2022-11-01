@@ -27,7 +27,7 @@ This allows us to write import statements like:
 import MyButton from 'components/MyButton';
 ```
 Otherwise, when our project contains alot of components, we might have needed to chain '../../../' to import the right one, ie:
-````sh
+```sh
 import MyButton from '../../../MyButton';
 ```
 
