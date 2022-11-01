@@ -1,0 +1,24 @@
+/* This is just to give an example of what probably fits inside this css file */
+:root {
+  /* primary color Red */
+  --theme-color-primary-900: rgba(72, 9, 0, 1);
+  --theme-color-primary-800: rgba(106, 18, 4, 1);
+  --theme-color-primary-700: rgba(136, 29, 12, 1);
+  --theme-color-primary-600: rgba(163, 42, 23, 1);
+  --theme-color-primary-500: rgba(186, 58, 38, 1);
+  --theme-color-primary-400: rgba(208, 92, 74, 1);
+  --theme-color-primary-300: rgba(225, 128, 113, 1);
+  --theme-color-primary-200: rgba(239, 168, 157, 1);
+  --theme-color-primary-100: rgba(249, 210, 204, 1);
+
+  /* secondary color Purple */
+  --theme-color-secondary-900: rgba(31, 20, 47, 1);
+  --theme-color-secondary-800: rgba(48, 31, 70, 1);
+  --theme-color-secondary-700: rgba(65, 43, 93, 1);
+  --theme-color-secondary-600: rgba(82, 56, 116, 1);
+  --theme-color-secondary-500: rgba(99, 70, 137, 1);
+  --theme-color-secondary-400: rgba(130, 105, 162, 1);
+  --theme-color-secondary-300: rgba(161, 141, 187, 1);
+  --theme-color-secondary-200: rgba(192, 178, 210, 1);
+  --theme-color-secondary-100: rgba(224, 216, 233, 1);
+}
