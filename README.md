@@ -1,26 +1,16 @@
 # Branches
 1. [Main entrypoint](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
 2. [Basic structure of a React project](https://github.com/LarsGKodehode/react-course-4-weeks/tree/project-structure-convention)
-3. [This branch](https://github.com/LarsGKodehode/react-course-4-weeks/tree/component-properties)
+3. [Components and Props](https://github.com/LarsGKodehode/react-course-4-weeks/tree/component-properties)
+4. [This branch](https://github.com/LarsGKodehode/react-course-4-weeks/tree/component-styling)
 
 ## This branch
-Branch #2 gave a simple example of how to create a resuable component and where to store it inside your project.
-The next step into React will enable us to create components with dynamic content.
-
-In React the way we do this is by giving components, what is called, *props* (shorthand for properties).
-The HTML equivalent is the elements attributes. Example:
-The `<a>` element takes a *href* attribute to know where to link to
-```
-<a href="https://example.com">Example link</a>
-```
-The syntaxt when calling custom React components is identical.
-- See [App.js](/src/App.js) for how to call a component with custom props
-- See [CardsUsingProps](/src/components/CardUsingProps/CardUsingProps.jsx) for how to handle incomming props in a custom component
-Further you do not need to just pass JavaScript strings, you can use all JavaScript Types, booleans, numbers, arrays, objects, etc.
+Here we will show a couple of examples of how to apply styling to your React application
+1. Global CSS stylesheet, using the className attribute on default
+  - Various ways to import them
+2. [React inline styling](https://beta.reactjs.org/learn/javascript-in-jsx-with-curly-braces#using-double-curlies-css-and-other-objects-in-jsx)
+3. 3rd party packages
+  - [CSS Modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
+  - [styled-components](https://styled-components.com/)
 
 ## Files and Folders
-### [src/components/CardsUsingProps/](/src/components/CardUsingProps/) ```NEW```
-Simple example of how to handle props passed to a component
-
-### [src/App.js](/src/App.js) ```NEW```
-How to pass properties (props) to components inside your application
