@@ -6,6 +6,7 @@ There are also multiple branches (currently only two) for you to look at.
 1. [This branch](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
 2. [Basic structure of a React project](https://github.com/LarsGKodehode/react-course-4-weeks/tree/project-structure-convention)
 3. [Components and Props](https://github.com/LarsGKodehode/react-course-4-weeks/tree/component-properties)
+4. [Styling your application](https://github.com/LarsGKodehode/react-course-4-weeks/tree/component-styling)
 
 ## Using this repository
 There is no reason for you to actually download this repository, but please have a look around.
