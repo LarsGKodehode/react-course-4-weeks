@@ -2,6 +2,7 @@
 1. [Main entrypoint](https://github.com/LarsGKodehode/react-course-4-weeks/tree/main)
 2. [Basic structure of a React project](https://github.com/LarsGKodehode/react-course-4-weeks/tree/project-structure-convention)
 3. [This branch](https://github.com/LarsGKodehode/react-course-4-weeks/tree/component-properties)
+4. [Styling your application](https://github.com/LarsGKodehode/react-course-4-weeks/tree/component-styling)
 
 ## This branch
 Branch #2 gave a simple example of how to create a resuable component and where to store it inside your project.
