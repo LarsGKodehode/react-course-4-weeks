@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Sample class used in the component StylingGlobal */
+.example-div {
+  margin: 2em;
+  padding: .5em;
+  background-color: burlywood;
+
+  grid-template-areas: 
+    "title empty empty"
+    "paragraph paragraph empty"
+    "paragraph paragraph empty"
+  ;
+}
+
+.example-h1 {
+  grid-area: title;
+  border-bottom: 1px solid black;
+}
+
+.example-p {
+  grid-area: paragraph;
+
+  border-radius: 10px;
+  background-color: rgb(200, 200, 200);
+}

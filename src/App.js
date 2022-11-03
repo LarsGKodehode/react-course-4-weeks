@@ -1,20 +1,15 @@
-import { CardUsingProps } from 'components/CardUsingProps';
+// CSS
 import './App.css';
+
+// Components
+import { StylingGlobal } from 'components/StylingGlobal';
 
 const App = () => {
   return (
     <div className="App">
+
+      <StylingGlobal />
       
-      <CardUsingProps
-        title="Look"
-        paragraph="There is two of us"
-      />
-
-      <CardUsingProps
-        title="And"
-        paragraph="We are different"
-      />
-
     </div>
   );
 }
