@@ -6,11 +6,12 @@
 
 ## This branch
 Here we will show a couple of examples of how to apply styling to your React application
-1. Global CSS stylesheet, using the className attribute on default
+1. Global CSS stylesheet, using the className attribute on default HTML elements (`<div className="MyClass">, <h1>, etc`)
   - Various ways to import them
 2. [React inline styling](https://beta.reactjs.org/learn/javascript-in-jsx-with-curly-braces#using-double-curlies-css-and-other-objects-in-jsx)
 3. 3rd party packages
   - [CSS Modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
+
   - [styled-components](https://styled-components.com/)
 
 ## Files and Folders
