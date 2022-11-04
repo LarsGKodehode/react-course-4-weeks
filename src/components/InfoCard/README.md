@@ -29,11 +29,11 @@ Keeping the same convention between homebrewn components and the ones we are ins
 It also makes it easier to read our import statements.
 With index.js and content:
 ```sh
-'components/InfoCard'
+import Infocard from 'components/InfoCard';
 ```
 Without we have to specify which file inside the folder we want:
 ```sh
-'components/InfoCard/InfoCard'
+import InfoCard from 'components/InfoCard/InfoCard';
 ```
 
 The way this works is that the build process (compilation) that is run when starting
