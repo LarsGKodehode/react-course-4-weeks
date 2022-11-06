@@ -2,7 +2,8 @@
 import './App.css';
 
 // Components
-import StylingGlobal from 'components/StylingGlobal';
+import { StylingGlobal } from 'components/StylingGlobal';
+
 
 const App = () => {
   return (
