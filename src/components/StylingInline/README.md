@@ -12,3 +12,11 @@ A quick and dirty example of how to apply styling to React components utilizing 
 - ?Separation of concernce?
  CSS was invented to separate the semantic structure of webpages/application from how webpages/web applications looked.
  Inline styling makes them intertwined again.
+
+
+ ## Asides
+ ### Defining variables and functions inside or outside components
+ My recommandation is to define all you can outside the scope of React components.
+ Only define things inside the functional component scope that are reliant on any props you pass.
+
+ The short rational for this is due to

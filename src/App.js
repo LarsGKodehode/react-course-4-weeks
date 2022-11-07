@@ -3,6 +3,7 @@ import './App.css';
 
 // Components
 import { StylingGlobal } from 'components/StylingGlobal';
+import { StylingInline } from 'components/StylingInline';
 
 
 const App = () => {
@@ -10,6 +11,8 @@ const App = () => {
     <div className="App">
 
       <StylingGlobal />
+      
+      <StylingInline />
       
     </div>
   );
