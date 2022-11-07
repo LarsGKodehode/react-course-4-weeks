@@ -5,6 +5,7 @@ import './App.css';
 import { StylingGlobal } from 'components/StylingGlobal';
 import { StylingInline } from 'components/StylingInline';
 import { StylingCSSModules } from 'components/StylingCSSModules';
+import { StylingStyledComponents } from 'components/StylingStyledComponents';
 
 
 const App = () => {
@@ -16,6 +17,8 @@ const App = () => {
       <StylingInline />
 
       <StylingCSSModules />
+
+      <StylingStyledComponents />
       
     </div>
   );
