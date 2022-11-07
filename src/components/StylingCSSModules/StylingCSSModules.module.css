@@ -1,0 +1,26 @@
+/* Sample class used in the component StylingGlobal */
+.div {
+  margin: 2em;
+  border-radius: 30px;
+  padding: .7em;
+  background-color: cadetblue;
+
+  grid-template-areas: 
+    "title empty empty"
+    "paragraph paragraph empty"
+    "paragraph paragraph empty"
+  ;
+}
+
+.h1 {
+  grid-area: title;
+  border-bottom: 1px solid black;
+}
+
+.p {
+  grid-area: paragraph;
+  padding: .5em;
+
+  border-radius: 10px;
+  background-color: rgb(200, 200, 200);
+}
